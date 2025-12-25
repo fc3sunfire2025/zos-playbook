@@ -1,0 +1,16 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Node/Python/etc (in case you add tooling later)
+node_modules/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.pem
+*.key
