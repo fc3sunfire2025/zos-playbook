@@ -8,3 +8,5 @@ Snippets are meant to be small, focused, and safe to adapt.
 ## Index
 
 - [Basic job skeleton](./job-skeleton.jcl)
+- [Allocate a sequential dataset (PS)](./allocate-sequential-dataset.jcl)
+- [Allocate a PDS](./allocate-pds-dataset.jcl)
